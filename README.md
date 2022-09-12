@@ -1,2 +1,2 @@
 # Tripocity 
-it is a travel website
+It is a travel website.
